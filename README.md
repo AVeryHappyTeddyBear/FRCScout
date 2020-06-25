@@ -1,7 +1,7 @@
 # FRCScout
 An HTML based scouting app for FRC competition
 
-This can be edited to create a custom form for scouting at FRC competitions.
+This can be edited to create a custom forum for scouting at FRC competitions.
 The primary function of this is to have a bunch of user inputs and a submit button,
 when the user submits their data a QR code is generated with text in CSV format,
 which can then be read by a scanner and transfered into any database that can take
